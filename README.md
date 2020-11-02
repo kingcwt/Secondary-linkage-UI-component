@@ -7,7 +7,7 @@ react-UI 组件
 #### 二级联动菜单
 
 初始图：  
-<img src='./1.png'>
+<img src='1.png'>
 选择中：  
 <img src='./2.png'>
 选择后：  
