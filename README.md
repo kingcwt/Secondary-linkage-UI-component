@@ -13,33 +13,31 @@ react-UI 组件
 选择后：  
 <img src='./3.png'>
 
-/\* props 参数：
-
-###### data
+#### data
 
 ---
 
 传一个二维数组
 
-###### firstLevelTitle
+#### firstLevelTitle
 
 ---
 
 省份文字修改 默认显示省份
 
-###### secondaryTitle
+#### secondaryTitle
 
 ---
 
 市区文字修改 默认显示市区
 
-###### threeLevelTitle
+#### threeLevelTitle
 
 ---
 
 已选文字修改 默认显示已选择
 
-###### placeholderText
+#### placeholderText
 
 ---
 
